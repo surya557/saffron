@@ -1,0 +1,40 @@
+{
+  "name": "Saffron",
+  "version": "0.0.0",
+  "homepage": "https://github.com/surya557/saffron",
+  "authors": [
+    "Saffron Team"
+  ],
+  "main": "app.js",
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.20",
+    "angular-aside": "~1.1.3",
+    "angular-bootstrap": "~0.13.4",
+    "angular-cookies": "~1.3.20",
+    "angular-resource": "~1.3.20",
+    "angular-route": "~1.3.20",
+    "angular-sanitize": "~1.3.20",
+    "angular-touch": "~1.3.20",
+    "lodash": "~3.3.1",
+    "bootstrap": "~3.3.7",
+    "angular-material": "~1.0.9",
+	  "angular-ui-grid": "~3.1.0",
+	  "angular-spinner": "~0.6.2"
+  },
+  "resolutions": {
+    "angular": "~1.3.14",
+    "angular-bootstrap": "~0.13.3"
+  }
+}
